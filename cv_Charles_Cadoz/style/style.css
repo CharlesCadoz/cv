@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;500;700&family=Roboto:wght@100;300;400;500;700&display=swap');
+
+body {
+  text-align: center;
+  font-family: 'Lora', serif;
+  background-image: url(https://i.pinimg.com/originals/f7/ae/e8/f7aee8753832af613b63e51d5f07011a.jpg);
+}
+div {
+    background-image: url(https://eskipaper.com/images/blurry-wallpaper-4.jpg);
+  width: 650px;
+    margin: 32px auto;
+    padding: 48px;
+    border-radius: 7px;
+    box-shadow: 0px 0px 6px 3px grey;
+} 
+
+img{
+border-radius: 50%
+
+
+}
+
+h1, h2, a {
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    color: #2b2fc1;
+    text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+h2 {
+  color: #2b2fc1;
+  text-align: center;
+}
+
+.profil{
+color: black;
+    text-align: justify;
+
+}
+
+
+
+.btn-LKDI  {
+text-decoration: none;
+background-color: black; 
+color: white;
+padding: 10px;
+width: 150px;
+margin: 24px auto;
+border-radius: 7px;
+font-weight: bold;
+border: 1px solid black;
+transition: 0.5s;
+}
+
+.btn-LKDI:hover {
+  background-color: white;
+  color:black;
+}
+
+
+}
+.list-inline {
+  padding: 0;
+}
+.list-inline  li {
+  display: inline;
+}
